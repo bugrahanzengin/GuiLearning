@@ -44,7 +44,7 @@ public class GUI  implements ActionListener {
         button2.addActionListener(this);
 
 
-        JButton button8 = new JButton("Stop");
+        JButton button8 = new JButton("Stop 111");
         button2.addActionListener(this);
 
 
